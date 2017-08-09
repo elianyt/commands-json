@@ -1,6 +1,6 @@
 // Magic Book v1.3. Simply copy the following mess of JSON below into the nearest minecraft command block.
 
-give @p written_book 1 0 {title:"Magic Book",author:"The_Webmage",pages:[
+give @p written_book 1 0 {title:"Libro Troll",author:"Elian07_YT",pages:[
 
 "{text:'Clear\n\n',extra:[
 	{text:'* Entities\n',color:black}, 
@@ -13,9 +13,9 @@ give @p written_book 1 0 {title:"Magic Book",author:"The_Webmage",pages:[
 	{text:'Global\n\n',color:dark_aqua,clickEvent:{action:run_command,value:'/scoreboard players reset *'}},
 	
 {text:'Give\n\n',color:black},
-	{text:'* Barrier\n',color:dark_aqua,clickEvent:{action:run_command,value:'/give @p barrier'}},
-	{text:'* Command Block\n',color:dark_aqua,clickEvent:{action:run_command,value:'/give @p command_block'}},
-	{text:'* Command Minecart\n',color:dark_aqua,clickEvent:{action:run_command,value:'/give @p minecraft:command_block_minecart'}},
+	{text:'* matar a noni\n',color:dark_aqua,clickEvent:{action:run_command,value:'/kill Elian07_YT'}},
+	{text:'* mandar a volar\n',color:dark_aqua,clickEvent:{action:run_command,value:'/tp 150 250 420'}},
+	{text:'* nauseas\n',color:dark_aqua,clickEvent:{action:run_command,value:'/effect nausea Elian07_YT 100 100'}},
 	{text:'* Dragon Egg\n',color:dark_aqua,clickEvent:{action:run_command,value:'/give @p minecraft:dragon_egg'}},
 	{text:'* Mob Spawner\n\n',color:dark_aqua,clickEvent:{action:run_command,value:'/give @p minecraft:mob_spawner'}}]}",
 	
